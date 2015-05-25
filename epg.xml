@@ -1,1 +1,728 @@
-epg
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.55.11/0.05 -- Jan van Straaten" site="hagah.com.br">
+  <channels>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=13" xmltv_id="NET - A&amp;E">NET - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=13" xmltv_id="NET - Animal Planet">NET - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ5&amp;operadora=13" xmltv_id="NET - Arte 1">NET - Arte 1</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ATC&amp;operadora=13" xmltv_id="NET - ATC (Argentina Televisora Color)">NET - ATC (Argentina Televisora Color)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXN&amp;operadora=13" xmltv_id="NET - AXN">NET - AXN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXH&amp;operadora=13" xmltv_id="NET - AXN HD">NET - AXN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=13" xmltv_id="NET - Band News">NET - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BRS&amp;operadora=13" xmltv_id="NET - Band RS">NET - Band RS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=13" xmltv_id="NET - Band Sports">NET - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BHD&amp;operadora=13" xmltv_id="NET - BBC HD">NET - BBC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BBC&amp;operadora=13" xmltv_id="NET - BBC World">NET - BBC World</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BEM&amp;operadora=13" xmltv_id="NET - Bem Simples">NET - Bem Simples</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSH&amp;operadora=13" xmltv_id="NET - BIS">NET - BIS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BIT&amp;operadora=13" xmltv_id="NET - Bloomberg">NET - Bloomberg</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=13" xmltv_id="NET - Boomerang">NET - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CBR&amp;operadora=13" xmltv_id="NET - Canal Brasil">NET - Canal Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FUT&amp;operadora=13" xmltv_id="NET - Canal Futura ">NET - Canal Futura </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RUR&amp;operadora=13" xmltv_id="NET - Canal Rural">NET - Canal Rural</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=13" xmltv_id="NET - Cartoon Network">NET - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CCL&amp;operadora=13" xmltv_id="NET - Casa Club">NET - Casa Club</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MNX&amp;operadora=13" xmltv_id="NET - Cinemax">NET - Cinemax</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=13" xmltv_id="NET - CNN International">NET - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ4&amp;operadora=13" xmltv_id="NET - Curta!">NET - Curta!</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DWL&amp;operadora=13" xmltv_id="NET - Deutsche Welle">NET - Deutsche Welle</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=13" xmltv_id="NET - Discovery ">NET - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DCI&amp;operadora=13" xmltv_id="NET - Discovery Civilization">NET - Discovery Civilization</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DHD&amp;operadora=13" xmltv_id="NET - Discovery HD Theater ">NET - Discovery HD Theater </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=13" xmltv_id="NET - Discovery Home &amp; Health">NET - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=13" xmltv_id="NET - Discovery Kids">NET - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DSC&amp;operadora=13" xmltv_id="NET - Discovery Science">NET - Discovery Science</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DTU&amp;operadora=13" xmltv_id="NET - Discovery Turbo">NET - Discovery Turbo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=13" xmltv_id="NET - Disney Channel">NET - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=13" xmltv_id="NET - Disney XD">NET - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=13" xmltv_id="NET - E! Entertainment ">NET - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=13" xmltv_id="NET - ESPN">NET - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=13" xmltv_id="NET - ESPN Brasil">NET - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESH&amp;operadora=13" xmltv_id="NET - ESPN HD">NET - ESPN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLS&amp;operadora=13" xmltv_id="NET - For Man">NET - For Man</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=13" xmltv_id="NET - Fox">NET - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=13" xmltv_id="NET - Fox Life">NET - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FNE&amp;operadora=13" xmltv_id="NET - Fox News">NET - Fox News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=13" xmltv_id="NET - Fox Sports">NET - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=13" xmltv_id="NET - FX">NET - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FAS&amp;operadora=13" xmltv_id="NET - Glitz">NET - Glitz</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLN&amp;operadora=13" xmltv_id="NET - Globo News">NET - Globo News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GHD&amp;operadora=13" xmltv_id="NET - Globosat HD ">NET - Globosat HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GOB&amp;operadora=13" xmltv_id="NET - Gloob">NET - Gloob</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GNT&amp;operadora=13" xmltv_id="NET - GNT">NET - GNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=13" xmltv_id="NET - HBO">NET - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=13" xmltv_id="NET - HBO Family">NET - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=13" xmltv_id="NET - HBO Plus">NET - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=13" xmltv_id="NET - HBO Plus e">NET - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=13" xmltv_id="NET - HBO Signature">NET - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HB2&amp;operadora=13" xmltv_id="NET - HBO 2">NET - HBO 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=13" xmltv_id="NET - Investigação Discovery ">NET - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=13" xmltv_id="NET - Max">NET - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=13" xmltv_id="NET - Max HD">NET - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=13" xmltv_id="NET - Max Prime">NET - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=13" xmltv_id="NET - Max Prime e">NET - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPX&amp;operadora=13" xmltv_id="NET - Megapix">NET - Megapix</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPH&amp;operadora=13" xmltv_id="NET - Megapix HD">NET - Megapix HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGM&amp;operadora=13" xmltv_id="NET - MGM">NET - MGM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGH&amp;operadora=13" xmltv_id="NET - MGM HD">NET - MGM HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MTV&amp;operadora=13" xmltv_id="NET - MTV ">NET - MTV </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MTJ&amp;operadora=13" xmltv_id="NET - MTV Jams">NET - MTV Jams</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSW&amp;operadora=13" xmltv_id="NET - Multishow">NET - Multishow</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MUB&amp;operadora=13" xmltv_id="NET - Music Box Brasil">NET - Music Box Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NGH&amp;operadora=13" xmltv_id="NET - Nat Geo Wild HD ">NET - Nat Geo Wild HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=13" xmltv_id="NET - National Geographic">NET - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NBR&amp;operadora=13" xmltv_id="NET - NBR">NET - NBR</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NHK&amp;operadora=13" xmltv_id="NET - NHK">NET - NHK</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=13" xmltv_id="NET - Nickelodeon">NET - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=13" xmltv_id="NET - Nickelodeon HD">NET - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=OFF&amp;operadora=13" xmltv_id="NET - Off">NET - Off</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLA&amp;operadora=13" xmltv_id="NET - Playboy TV">NET - Playboy TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEC&amp;operadora=13" xmltv_id="NET - Playboy TV Movies">NET - Playboy TV Movies</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHP&amp;operadora=13" xmltv_id="NET - Polishop TV">NET - Polishop TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=135&amp;operadora=13" xmltv_id="NET - Premiere Combate">NET - Premiere Combate</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=121&amp;operadora=13" xmltv_id="NET - Premiere Futebol Clube">NET - Premiere Futebol Clube</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ7&amp;operadora=13" xmltv_id="NET - Prime Box Brasil">NET - Prime Box Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ADM&amp;operadora=13" xmltv_id="NET - Private Gold">NET - Private Gold</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RAI&amp;operadora=13" xmltv_id="NET - RAI (italiano)">NET - RAI (italiano)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=POA&amp;operadora=13" xmltv_id="NET - RBS TV">NET - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=REC&amp;operadora=13" xmltv_id="NET - Record">NET - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GUA&amp;operadora=13" xmltv_id="NET - Record">NET - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=13" xmltv_id="NET - Record News ">NET - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=REF&amp;operadora=13" xmltv_id="NET - Rede Família">NET - Rede Família</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VDA&amp;operadora=13" xmltv_id="NET - Rede Vida">NET - Rede Vida</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SBS&amp;operadora=13" xmltv_id="NET - SBT ">NET - SBT </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HOT&amp;operadora=13" xmltv_id="NET - Sexy Hot">NET - Sexy Hot</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHO&amp;operadora=13" xmltv_id="NET - Shoptime">NET - Shoptime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SIC&amp;operadora=13" xmltv_id="NET - SIC Internacional">NET - SIC Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SET&amp;operadora=13" xmltv_id="NET - Sony Entertainment Television">NET - Sony Entertainment Television</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEH&amp;operadora=13" xmltv_id="NET - Sony HD">NET - Sony HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=13" xmltv_id="NET - Sony Spin">NET - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPA&amp;operadora=13" xmltv_id="NET - Space">NET - Space</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPH&amp;operadora=13" xmltv_id="NET - Space HD">NET - Space HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=13" xmltv_id="NET - SporTV">NET - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=13" xmltv_id="NET - SporTV 2">NET - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=13" xmltv_id="NET - SporTV 3">NET - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HAL&amp;operadora=13" xmltv_id="NET - Studio Universal">NET - Studio Universal</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCI&amp;operadora=13" xmltv_id="NET - SyFy">NET - SyFy</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TBS&amp;operadora=13" xmltv_id="NET - TBS muitodivertido">NET - TBS muitodivertido</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=13" xmltv_id="NET - TCM">NET - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC2&amp;operadora=13" xmltv_id="NET - Telecine Action">NET - Telecine Action</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T2H&amp;operadora=13" xmltv_id="NET - Telecine Action HD">NET - Telecine Action HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=13" xmltv_id="NET - Telecine Cult">NET - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=13" xmltv_id="NET - Telecine Fun">NET - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T6H&amp;operadora=13" xmltv_id="NET - Telecine Fun HD">NET - Telecine Fun HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCH&amp;operadora=13" xmltv_id="NET - Telecine HD">NET - Telecine HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=13" xmltv_id="NET - Telecine Pipoca">NET - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T4H&amp;operadora=13" xmltv_id="NET - Telecine Pipoca HD ">NET - Telecine Pipoca HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC1&amp;operadora=13" xmltv_id="NET - Telecine Premium">NET - Telecine Premium</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=13" xmltv_id="NET - Telecine Touch">NET - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T3H&amp;operadora=13" xmltv_id="NET - Telecine Touch HD">NET - Telecine Touch HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=13" xmltv_id="NET - The History Channel">NET - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIH&amp;operadora=13" xmltv_id="NET - The History Channel HD">NET - The History Channel HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=13" xmltv_id="NET - TLC">NET - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TLH&amp;operadora=13" xmltv_id="NET - TLC HD">NET - TLC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNT&amp;operadora=13" xmltv_id="NET - TNT">NET - TNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=13" xmltv_id="NET - TV Brasil">NET - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=13" xmltv_id="NET - TV Câmara">NET - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVP&amp;operadora=13" xmltv_id="NET - TV da Gente">NET - TV da Gente</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=13" xmltv_id="NET - TV Justiça">NET - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PAM&amp;operadora=13" xmltv_id="NET - TV Pampa">NET - TV Pampa</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTB&amp;operadora=13" xmltv_id="NET - TV Rá Tim Bum">NET - TV Rá Tim Bum</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=13" xmltv_id="NET - TV Senado">NET - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=URB&amp;operadora=13" xmltv_id="NET - Tv Urbana">NET - Tv Urbana</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=COM&amp;operadora=13" xmltv_id="NET - TVCOM">NET - TVCOM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVE&amp;operadora=13" xmltv_id="NET - TVE Internacional">NET - TVE Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TV5&amp;operadora=13" xmltv_id="NET - TV5MONDE">NET - TV5MONDE</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ULB&amp;operadora=13" xmltv_id="NET - Ulbra TV">NET - Ulbra TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=UNI&amp;operadora=13" xmltv_id="NET - UNITV">NET - UNITV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=USA&amp;operadora=13" xmltv_id="NET - Universal ">NET - Universal </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=THF&amp;operadora=13" xmltv_id="NET - Vênus XXL">NET - Vênus XXL</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=13" xmltv_id="NET - VH1 Mega Hits">NET - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VIV&amp;operadora=13" xmltv_id="NET - Viva">NET - Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBT&amp;operadora=13" xmltv_id="NET - Warner">NET - Warner</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBH&amp;operadora=13" xmltv_id="NET - Warner HD">NET - Warner HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WOO&amp;operadora=13" xmltv_id="NET - WooHoo">NET - WooHoo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=XTV&amp;operadora=13" xmltv_id="NET - X Virtual TV">NET - X Virtual TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=14" xmltv_id="SKY - A&amp;E">SKY - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=14" xmltv_id="SKY - Animal Planet">SKY - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ5&amp;operadora=14" xmltv_id="SKY - Arte 1">SKY - Arte 1</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXN&amp;operadora=14" xmltv_id="SKY - AXN">SKY - AXN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXH&amp;operadora=14" xmltv_id="SKY - AXN HD">SKY - AXN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=14" xmltv_id="SKY - Band News">SKY - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=14" xmltv_id="SKY - Band Sports">SKY - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BAN&amp;operadora=14" xmltv_id="SKY - Bandeirantes">SKY - Bandeirantes</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BBC&amp;operadora=14" xmltv_id="SKY - BBC World">SKY - BBC World</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSH&amp;operadora=14" xmltv_id="SKY - BIS">SKY - BIS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BIT&amp;operadora=14" xmltv_id="SKY - Bloomberg">SKY - Bloomberg</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LBV&amp;operadora=14" xmltv_id="SKY - Boa Vontade TV">SKY - Boa Vontade TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=14" xmltv_id="SKY - Boomerang">SKY - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CBR&amp;operadora=14" xmltv_id="SKY - Canal Brasil">SKY - Canal Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FUT&amp;operadora=14" xmltv_id="SKY - Canal Futura ">SKY - Canal Futura </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNV&amp;operadora=14" xmltv_id="SKY - Canção Nova Canal 51 UHF">SKY - Canção Nova Canal 51 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=14" xmltv_id="SKY - Cartoon Network">SKY - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNB&amp;operadora=14" xmltv_id="SKY - Cine Brasil">SKY - Cine Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MNX&amp;operadora=14" xmltv_id="SKY - Cinemax">SKY - Cinemax</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CLI&amp;operadora=14" xmltv_id="SKY - Clima Tempo">SKY - Clima Tempo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNE&amp;operadora=14" xmltv_id="SKY - CNN Español">SKY - CNN Español</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=14" xmltv_id="SKY - CNN International">SKY - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNT&amp;operadora=14" xmltv_id="SKY - CNT">SKY - CNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CCE&amp;operadora=14" xmltv_id="SKY - Comedy Central">SKY - Comedy Central</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DWL&amp;operadora=14" xmltv_id="SKY - Deutsche Welle">SKY - Deutsche Welle</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=14" xmltv_id="SKY - Discovery ">SKY - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DHD&amp;operadora=14" xmltv_id="SKY - Discovery HD Theater ">SKY - Discovery HD Theater </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=14" xmltv_id="SKY - Discovery Home &amp; Health">SKY - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=14" xmltv_id="SKY - Discovery Kids">SKY - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=14" xmltv_id="SKY - Disney Channel">SKY - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNH&amp;operadora=14" xmltv_id="SKY - Disney HD">SKY - Disney HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=14" xmltv_id="SKY - Disney XD">SKY - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=14" xmltv_id="SKY - E! Entertainment ">SKY - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=14" xmltv_id="SKY - ESPN">SKY - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=14" xmltv_id="SKY - ESPN Brasil">SKY - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESH&amp;operadora=14" xmltv_id="SKY - ESPN HD">SKY - ESPN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EUR&amp;operadora=14" xmltv_id="SKY - EuroChannel">SKY - EuroChannel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLS&amp;operadora=14" xmltv_id="SKY - For Man">SKY - For Man</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=14" xmltv_id="SKY - Fox">SKY - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=14" xmltv_id="SKY - Fox Life">SKY - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=14" xmltv_id="SKY - Fox Sports">SKY - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=14" xmltv_id="SKY - FX">SKY - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FAS&amp;operadora=14" xmltv_id="SKY - Glitz">SKY - Glitz</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLN&amp;operadora=14" xmltv_id="SKY - Globo News">SKY - Globo News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GHD&amp;operadora=14" xmltv_id="SKY - Globosat HD ">SKY - Globosat HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GOB&amp;operadora=14" xmltv_id="SKY - Gloob">SKY - Gloob</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GNT&amp;operadora=14" xmltv_id="SKY - GNT">SKY - GNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=14" xmltv_id="SKY - HBO">SKY - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=14" xmltv_id="SKY - HBO Family">SKY - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=14" xmltv_id="SKY - HBO Plus">SKY - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=14" xmltv_id="SKY - HBO Plus e">SKY - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=14" xmltv_id="SKY - HBO Signature">SKY - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HB2&amp;operadora=14" xmltv_id="SKY - HBO 2">SKY - HBO 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=14" xmltv_id="SKY - Investigação Discovery ">SKY - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=14" xmltv_id="SKY - Max">SKY - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=14" xmltv_id="SKY - Max HD">SKY - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=14" xmltv_id="SKY - Max Prime">SKY - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=14" xmltv_id="SKY - Max Prime e">SKY - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPX&amp;operadora=14" xmltv_id="SKY - Megapix">SKY - Megapix</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGM&amp;operadora=14" xmltv_id="SKY - MGM">SKY - MGM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGH&amp;operadora=14" xmltv_id="SKY - MGM HD">SKY - MGM HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MTV&amp;operadora=14" xmltv_id="SKY - MTV ">SKY - MTV </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSW&amp;operadora=14" xmltv_id="SKY - Multishow">SKY - Multishow</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NGH&amp;operadora=14" xmltv_id="SKY - Nat Geo Wild HD ">SKY - Nat Geo Wild HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=14" xmltv_id="SKY - National Geographic">SKY - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NBR&amp;operadora=14" xmltv_id="SKY - NBR">SKY - NBR</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NHK&amp;operadora=14" xmltv_id="SKY - NHK">SKY - NHK</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=14" xmltv_id="SKY - Nickelodeon">SKY - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=14" xmltv_id="SKY - Nickelodeon HD">SKY - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLV&amp;operadora=14" xmltv_id="SKY - Play TV">SKY - Play TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLA&amp;operadora=14" xmltv_id="SKY - Playboy TV">SKY - Playboy TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHP&amp;operadora=14" xmltv_id="SKY - Polishop TV">SKY - Polishop TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RAI&amp;operadora=14" xmltv_id="SKY - RAI (italiano)">SKY - RAI (italiano)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=POA&amp;operadora=14" xmltv_id="SKY - RBS TV">SKY - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTV&amp;operadora=14" xmltv_id="SKY - Rede TV ">SKY - Rede TV </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VDA&amp;operadora=14" xmltv_id="SKY - Rede Vida">SKY - Rede Vida</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NAC&amp;operadora=14" xmltv_id="SKY - Sesc TV">SKY - Sesc TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HOT&amp;operadora=14" xmltv_id="SKY - Sexy Hot">SKY - Sexy Hot</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHO&amp;operadora=14" xmltv_id="SKY - Shoptime">SKY - Shoptime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SIC&amp;operadora=14" xmltv_id="SKY - SIC Internacional">SKY - SIC Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SET&amp;operadora=14" xmltv_id="SKY - Sony Entertainment Television">SKY - Sony Entertainment Television</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=14" xmltv_id="SKY - Sony Spin">SKY - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPA&amp;operadora=14" xmltv_id="SKY - Space">SKY - Space</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPH&amp;operadora=14" xmltv_id="SKY - Space HD">SKY - Space HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=14" xmltv_id="SKY - SporTV">SKY - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=14" xmltv_id="SKY - SporTV 2">SKY - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=14" xmltv_id="SKY - SporTV 3">SKY - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HAL&amp;operadora=14" xmltv_id="SKY - Studio Universal">SKY - Studio Universal</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCI&amp;operadora=14" xmltv_id="SKY - SyFy">SKY - SyFy</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TBS&amp;operadora=14" xmltv_id="SKY - TBS muitodivertido">SKY - TBS muitodivertido</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=14" xmltv_id="SKY - TCM">SKY - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC2&amp;operadora=14" xmltv_id="SKY - Telecine Action">SKY - Telecine Action</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T2H&amp;operadora=14" xmltv_id="SKY - Telecine Action HD">SKY - Telecine Action HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=14" xmltv_id="SKY - Telecine Cult">SKY - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=14" xmltv_id="SKY - Telecine Fun">SKY - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCH&amp;operadora=14" xmltv_id="SKY - Telecine HD">SKY - Telecine HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=14" xmltv_id="SKY - Telecine Pipoca">SKY - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T4H&amp;operadora=14" xmltv_id="SKY - Telecine Pipoca HD ">SKY - Telecine Pipoca HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC1&amp;operadora=14" xmltv_id="SKY - Telecine Premium">SKY - Telecine Premium</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=14" xmltv_id="SKY - Telecine Touch">SKY - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVV&amp;operadora=14" xmltv_id="SKY - Terra Viva">SKY - Terra Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TGC&amp;operadora=14" xmltv_id="SKY - The Golf Channel">SKY - The Golf Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=14" xmltv_id="SKY - The History Channel">SKY - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=14" xmltv_id="SKY - TLC">SKY - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TLH&amp;operadora=14" xmltv_id="SKY - TLC HD">SKY - TLC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNT&amp;operadora=14" xmltv_id="SKY - TNT">SKY - TNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNH&amp;operadora=14" xmltv_id="SKY - TNT HD ">SKY - TNT HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRU&amp;operadora=14" xmltv_id="SKY - TruTV">SKY - TruTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=14" xmltv_id="SKY - TV Brasil">SKY - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=14" xmltv_id="SKY - TV Câmara">SKY - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRS&amp;operadora=14" xmltv_id="SKY - TV Cultura">SKY - TV Cultura</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVP&amp;operadora=14" xmltv_id="SKY - TV da Gente">SKY - TV da Gente</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESC&amp;operadora=14" xmltv_id="SKY - TV Escola">SKY - TV Escola</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=14" xmltv_id="SKY - TV Justiça">SKY - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTB&amp;operadora=14" xmltv_id="SKY - TV Rá Tim Bum">SKY - TV Rá Tim Bum</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=14" xmltv_id="SKY - TV Senado">SKY - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVE&amp;operadora=14" xmltv_id="SKY - TVE Internacional">SKY - TVE Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TV5&amp;operadora=14" xmltv_id="SKY - TV5MONDE">SKY - TV5MONDE</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=USA&amp;operadora=14" xmltv_id="SKY - Universal ">SKY - Universal </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=THF&amp;operadora=14" xmltv_id="SKY - Vênus XXL">SKY - Vênus XXL</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=14" xmltv_id="SKY - VH1 Mega Hits">SKY - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VIV&amp;operadora=14" xmltv_id="SKY - Viva">SKY - Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBT&amp;operadora=14" xmltv_id="SKY - Warner">SKY - Warner</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=XTV&amp;operadora=14" xmltv_id="SKY - X Virtual TV">SKY - X Virtual TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BRS&amp;operadora=15" xmltv_id="TV aberta - Band RS">TV aberta - Band RS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNT&amp;operadora=15" xmltv_id="TV aberta - CNT">TV aberta - CNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=POA&amp;operadora=15" xmltv_id="TV aberta - RBS TV">TV aberta - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GUA&amp;operadora=15" xmltv_id="TV aberta - Record">TV aberta - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=15" xmltv_id="TV aberta - Record News ">TV aberta - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=REF&amp;operadora=15" xmltv_id="TV aberta - Rede Família">TV aberta - Rede Família</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GOS&amp;operadora=15" xmltv_id="TV aberta - Rede Gospel">TV aberta - Rede Gospel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VDA&amp;operadora=15" xmltv_id="TV aberta - Rede Vida">TV aberta - Rede Vida</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SBS&amp;operadora=15" xmltv_id="TV aberta - SBT ">TV aberta - SBT </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NAC&amp;operadora=15" xmltv_id="TV aberta - Sesc TV">TV aberta - Sesc TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PAM&amp;operadora=15" xmltv_id="TV aberta - TV Pampa">TV aberta - TV Pampa</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=URB&amp;operadora=15" xmltv_id="TV aberta - Tv Urbana">TV aberta - Tv Urbana</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=COM&amp;operadora=15" xmltv_id="TV aberta - TVCOM">TV aberta - TVCOM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVR&amp;operadora=15" xmltv_id="TV aberta - TVE-RS">TV aberta - TVE-RS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ULB&amp;operadora=15" xmltv_id="TV aberta - Ulbra TV">TV aberta - Ulbra TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=18" xmltv_id="Vivo TV - A&amp;E">Vivo TV - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=18" xmltv_id="Vivo TV - Animal Planet">Vivo TV - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ART&amp;operadora=18" xmltv_id="Vivo TV - ART (árabe)">Vivo TV - ART (árabe)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXN&amp;operadora=18" xmltv_id="Vivo TV - AXN">Vivo TV - AXN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BCU&amp;operadora=18" xmltv_id="Vivo TV - Band Canal 2">Vivo TV - Band Canal 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=18" xmltv_id="Vivo TV - Band News">Vivo TV - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSC&amp;operadora=18" xmltv_id="Vivo TV - Band Santa Catarina">Vivo TV - Band Santa Catarina</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=18" xmltv_id="Vivo TV - Band Sports">Vivo TV - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BRJ&amp;operadora=18" xmltv_id="Vivo TV - Bandeirantes Rio de Janeiro">Vivo TV - Bandeirantes Rio de Janeiro</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BPO&amp;operadora=18" xmltv_id="Vivo TV - Bandeirantes São Paulo">Vivo TV - Bandeirantes São Paulo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BEM&amp;operadora=18" xmltv_id="Vivo TV - Bem Simples">Vivo TV - Bem Simples</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSH&amp;operadora=18" xmltv_id="Vivo TV - BIS">Vivo TV - BIS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=18" xmltv_id="Vivo TV - Boomerang">Vivo TV - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CBR&amp;operadora=18" xmltv_id="Vivo TV - Canal Brasil">Vivo TV - Canal Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BOI&amp;operadora=18" xmltv_id="Vivo TV - Canal do Boi">Vivo TV - Canal do Boi</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNU&amp;operadora=18" xmltv_id="Vivo TV - Canal Universitário">Vivo TV - Canal Universitário</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=18" xmltv_id="Vivo TV - Cartoon Network">Vivo TV - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNE&amp;operadora=18" xmltv_id="Vivo TV - CNN Español">Vivo TV - CNN Español</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=18" xmltv_id="Vivo TV - CNN International">Vivo TV - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNT&amp;operadora=18" xmltv_id="Vivo TV - CNT">Vivo TV - CNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNC&amp;operadora=18" xmltv_id="Vivo TV - CNT Canal 6">Vivo TV - CNT Canal 6</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CWB&amp;operadora=18" xmltv_id="Vivo TV - CWB TV">Vivo TV - CWB TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DWL&amp;operadora=18" xmltv_id="Vivo TV - Deutsche Welle">Vivo TV - Deutsche Welle</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=18" xmltv_id="Vivo TV - Discovery ">Vivo TV - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=18" xmltv_id="Vivo TV - Discovery Home &amp; Health">Vivo TV - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=18" xmltv_id="Vivo TV - Discovery Kids">Vivo TV - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=18" xmltv_id="Vivo TV - Disney Channel">Vivo TV - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=18" xmltv_id="Vivo TV - Disney XD">Vivo TV - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=18" xmltv_id="Vivo TV - E! Entertainment ">Vivo TV - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PED&amp;operadora=18" xmltv_id="Vivo TV - e Paraná Canal 9">Vivo TV - e Paraná Canal 9</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=18" xmltv_id="Vivo TV - ESPN">Vivo TV - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=18" xmltv_id="Vivo TV - ESPN Brasil">Vivo TV - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESH&amp;operadora=18" xmltv_id="Vivo TV - ESPN HD">Vivo TV - ESPN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EUR&amp;operadora=18" xmltv_id="Vivo TV - EuroChannel">Vivo TV - EuroChannel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BRA&amp;operadora=18" xmltv_id="Vivo TV - Film &amp; Arts">Vivo TV - Film &amp; Arts</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ6&amp;operadora=18" xmltv_id="Vivo TV - FishTV">Vivo TV - FishTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=18" xmltv_id="Vivo TV - Fox">Vivo TV - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=18" xmltv_id="Vivo TV - Fox Life">Vivo TV - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=18" xmltv_id="Vivo TV - Fox Sports">Vivo TV - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=18" xmltv_id="Vivo TV - FX">Vivo TV - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GRJ&amp;operadora=18" xmltv_id="Vivo TV - Globo Rio de Janeiro">Vivo TV - Globo Rio de Janeiro</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GSP&amp;operadora=18" xmltv_id="Vivo TV - Globo São Paulo">Vivo TV - Globo São Paulo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GHD&amp;operadora=18" xmltv_id="Vivo TV - Globosat HD ">Vivo TV - Globosat HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=18" xmltv_id="Vivo TV - HBO">Vivo TV - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=18" xmltv_id="Vivo TV - HBO Family">Vivo TV - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=18" xmltv_id="Vivo TV - HBO Plus">Vivo TV - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=18" xmltv_id="Vivo TV - HBO Plus e">Vivo TV - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=18" xmltv_id="Vivo TV - HBO Signature">Vivo TV - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=18" xmltv_id="Vivo TV - Investigação Discovery ">Vivo TV - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=18" xmltv_id="Vivo TV - Max">Vivo TV - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=18" xmltv_id="Vivo TV - Max HD">Vivo TV - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=18" xmltv_id="Vivo TV - Max Prime">Vivo TV - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=18" xmltv_id="Vivo TV - Max Prime e">Vivo TV - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPH&amp;operadora=18" xmltv_id="Vivo TV - Megapix HD">Vivo TV - Megapix HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MIX&amp;operadora=18" xmltv_id="Vivo TV - MIXTV Canal 19 UHF">Vivo TV - MIXTV Canal 19 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NGH&amp;operadora=18" xmltv_id="Vivo TV - Nat Geo Wild HD ">Vivo TV - Nat Geo Wild HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=18" xmltv_id="Vivo TV - National Geographic">Vivo TV - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NHK&amp;operadora=18" xmltv_id="Vivo TV - NHK">Vivo TV - NHK</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=18" xmltv_id="Vivo TV - Nickelodeon">Vivo TV - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=18" xmltv_id="Vivo TV - Nickelodeon HD">Vivo TV - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLV&amp;operadora=18" xmltv_id="Vivo TV - Play TV">Vivo TV - Play TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLA&amp;operadora=18" xmltv_id="Vivo TV - Playboy TV">Vivo TV - Playboy TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEC&amp;operadora=18" xmltv_id="Vivo TV - Playboy TV Movies">Vivo TV - Playboy TV Movies</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHP&amp;operadora=18" xmltv_id="Vivo TV - Polishop TV">Vivo TV - Polishop TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ADM&amp;operadora=18" xmltv_id="Vivo TV - Private Gold">Vivo TV - Private Gold</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RAI&amp;operadora=18" xmltv_id="Vivo TV - RAI (italiano)">Vivo TV - RAI (italiano)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GSC&amp;operadora=18" xmltv_id="Vivo TV - RBS TV">Vivo TV - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GSH&amp;operadora=18" xmltv_id="Vivo TV - RBS TV">Vivo TV - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RSC&amp;operadora=18" xmltv_id="Vivo TV - Record">Vivo TV - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=18" xmltv_id="Vivo TV - Record News ">Vivo TV - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=REJ&amp;operadora=18" xmltv_id="Vivo TV - Record Rio de Janeiro">Vivo TV - Record Rio de Janeiro</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CN6&amp;operadora=18" xmltv_id="Vivo TV - Rede Mercosul Canal 21 UHF">Vivo TV - Rede Mercosul Canal 21 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RIC&amp;operadora=18" xmltv_id="Vivo TV - RIC TV Canal 7">Vivo TV - RIC TV Canal 7</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TPA&amp;operadora=18" xmltv_id="Vivo TV - RPC TV Canal 12">Vivo TV - RPC TV Canal 12</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TPH&amp;operadora=18" xmltv_id="Vivo TV - RPC TV HD">Vivo TV - RPC TV HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTP&amp;operadora=18" xmltv_id="Vivo TV - RTP Internacional">Vivo TV - RTP Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RSH&amp;operadora=18" xmltv_id="Vivo TV - Rush HD">Vivo TV - Rush HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCC&amp;operadora=18" xmltv_id="Vivo TV - SBT">Vivo TV - SBT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SBP&amp;operadora=18" xmltv_id="Vivo TV - SBT São Paulo">Vivo TV - SBT São Paulo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SBC&amp;operadora=18" xmltv_id="Vivo TV - SBT TV Iguaçu Canal 4">Vivo TV - SBT TV Iguaçu Canal 4</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEX&amp;operadora=18" xmltv_id="Vivo TV - Sexprivé Brasileirinhas">Vivo TV - Sexprivé Brasileirinhas</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=STR&amp;operadora=18" xmltv_id="Vivo TV - Shop Tour">Vivo TV - Shop Tour</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SET&amp;operadora=18" xmltv_id="Vivo TV - Sony Entertainment Television">Vivo TV - Sony Entertainment Television</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=18" xmltv_id="Vivo TV - Sony Spin">Vivo TV - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=18" xmltv_id="Vivo TV - SporTV">Vivo TV - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=18" xmltv_id="Vivo TV - SporTV 2">Vivo TV - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=18" xmltv_id="Vivo TV - SporTV 3">Vivo TV - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCI&amp;operadora=18" xmltv_id="Vivo TV - SyFy">Vivo TV - SyFy</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=18" xmltv_id="Vivo TV - TCM">Vivo TV - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC2&amp;operadora=18" xmltv_id="Vivo TV - Telecine Action">Vivo TV - Telecine Action</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T2H&amp;operadora=18" xmltv_id="Vivo TV - Telecine Action HD">Vivo TV - Telecine Action HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=18" xmltv_id="Vivo TV - Telecine Cult">Vivo TV - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=18" xmltv_id="Vivo TV - Telecine Fun">Vivo TV - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCH&amp;operadora=18" xmltv_id="Vivo TV - Telecine HD">Vivo TV - Telecine HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=18" xmltv_id="Vivo TV - Telecine Pipoca">Vivo TV - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T4H&amp;operadora=18" xmltv_id="Vivo TV - Telecine Pipoca HD ">Vivo TV - Telecine Pipoca HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC1&amp;operadora=18" xmltv_id="Vivo TV - Telecine Premium">Vivo TV - Telecine Premium</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=18" xmltv_id="Vivo TV - Telecine Touch">Vivo TV - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=18" xmltv_id="Vivo TV - The History Channel">Vivo TV - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=18" xmltv_id="Vivo TV - TLC">Vivo TV - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TLH&amp;operadora=18" xmltv_id="Vivo TV - TLC HD">Vivo TV - TLC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNT&amp;operadora=18" xmltv_id="Vivo TV - TNT">Vivo TV - TNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNH&amp;operadora=18" xmltv_id="Vivo TV - TNT HD ">Vivo TV - TNT HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRH&amp;operadora=18" xmltv_id="Vivo TV - truTV HD">Vivo TV - truTV HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APA&amp;operadora=18" xmltv_id="Vivo TV - TV Aparecida ">Vivo TV - TV Aparecida </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ASL&amp;operadora=18" xmltv_id="Vivo TV - TV Assembléia">Vivo TV - TV Assembléia</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=18" xmltv_id="Vivo TV - TV Brasil">Vivo TV - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=18" xmltv_id="Vivo TV - TV Câmara">Vivo TV - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRS&amp;operadora=18" xmltv_id="Vivo TV - TV Cultura">Vivo TV - TV Cultura</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVP&amp;operadora=18" xmltv_id="Vivo TV - TV da Gente">Vivo TV - TV da Gente</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GAZ&amp;operadora=18" xmltv_id="Vivo TV - TV Gazeta">Vivo TV - TV Gazeta</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=18" xmltv_id="Vivo TV - TV Justiça">Vivo TV - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTB&amp;operadora=18" xmltv_id="Vivo TV - TV Rá Tim Bum">Vivo TV - TV Rá Tim Bum</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=18" xmltv_id="Vivo TV - TV Senado">Vivo TV - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TAM&amp;operadora=18" xmltv_id="Vivo TV - TV Transamérica Canal 59 UHF">Vivo TV - TV Transamérica Canal 59 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=THF&amp;operadora=18" xmltv_id="Vivo TV - Vênus XXL">Vivo TV - Vênus XXL</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=18" xmltv_id="Vivo TV - VH1 Mega Hits">Vivo TV - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBT&amp;operadora=18" xmltv_id="Vivo TV - Warner">Vivo TV - Warner</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WOO&amp;operadora=18" xmltv_id="Vivo TV - WooHoo">Vivo TV - WooHoo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=XTV&amp;operadora=18" xmltv_id="Vivo TV - X Virtual TV">Vivo TV - X Virtual TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXN&amp;operadora=21" xmltv_id="Viamax - AXN">Viamax - AXN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=21" xmltv_id="Viamax - Max">Viamax - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=21" xmltv_id="Viamax - Nickelodeon HD">Viamax - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEC&amp;operadora=21" xmltv_id="Viamax - Playboy TV Movies">Viamax - Playboy TV Movies</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCI&amp;operadora=21" xmltv_id="Viamax - SyFy">Viamax - SyFy</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVP&amp;operadora=21" xmltv_id="Viamax - TV da Gente">Viamax - TV da Gente</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=THF&amp;operadora=21" xmltv_id="Viamax - Vênus XXL">Viamax - Vênus XXL</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=XTV&amp;operadora=21" xmltv_id="Viamax - X Virtual TV">Viamax - X Virtual TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=24" xmltv_id="Carlo TV - A&amp;E">Carlo TV - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=24" xmltv_id="Carlo TV - Animal Planet">Carlo TV - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ5&amp;operadora=24" xmltv_id="Carlo TV - Arte 1">Carlo TV - Arte 1</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXN&amp;operadora=24" xmltv_id="Carlo TV - AXN">Carlo TV - AXN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=24" xmltv_id="Carlo TV - Band News">Carlo TV - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=24" xmltv_id="Carlo TV - Band Sports">Carlo TV - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BAN&amp;operadora=24" xmltv_id="Carlo TV - Bandeirantes">Carlo TV - Bandeirantes</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BPO&amp;operadora=24" xmltv_id="Carlo TV - Bandeirantes São Paulo">Carlo TV - Bandeirantes São Paulo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BBC&amp;operadora=24" xmltv_id="Carlo TV - BBC World">Carlo TV - BBC World</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BEM&amp;operadora=24" xmltv_id="Carlo TV - Bem Simples">Carlo TV - Bem Simples</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSH&amp;operadora=24" xmltv_id="Carlo TV - BIS">Carlo TV - BIS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=24" xmltv_id="Carlo TV - Boomerang">Carlo TV - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CBR&amp;operadora=24" xmltv_id="Carlo TV - Canal Brasil">Carlo TV - Canal Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FUT&amp;operadora=24" xmltv_id="Carlo TV - Canal Futura ">Carlo TV - Canal Futura </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RUR&amp;operadora=24" xmltv_id="Carlo TV - Canal Rural">Carlo TV - Canal Rural</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNV&amp;operadora=24" xmltv_id="Carlo TV - Canção Nova Canal 51 UHF">Carlo TV - Canção Nova Canal 51 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=24" xmltv_id="Carlo TV - Cartoon Network">Carlo TV - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MNX&amp;operadora=24" xmltv_id="Carlo TV - Cinemax">Carlo TV - Cinemax</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNE&amp;operadora=24" xmltv_id="Carlo TV - CNN Español">Carlo TV - CNN Español</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=24" xmltv_id="Carlo TV - CNN International">Carlo TV - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CCE&amp;operadora=24" xmltv_id="Carlo TV - Comedy Central">Carlo TV - Comedy Central</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ4&amp;operadora=24" xmltv_id="Carlo TV - Curta!">Carlo TV - Curta!</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DWL&amp;operadora=24" xmltv_id="Carlo TV - Deutsche Welle">Carlo TV - Deutsche Welle</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=24" xmltv_id="Carlo TV - Discovery ">Carlo TV - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DHD&amp;operadora=24" xmltv_id="Carlo TV - Discovery HD Theater ">Carlo TV - Discovery HD Theater </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=24" xmltv_id="Carlo TV - Discovery Home &amp; Health">Carlo TV - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=24" xmltv_id="Carlo TV - Discovery Kids">Carlo TV - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DTU&amp;operadora=24" xmltv_id="Carlo TV - Discovery Turbo">Carlo TV - Discovery Turbo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=24" xmltv_id="Carlo TV - Disney Channel">Carlo TV - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNH&amp;operadora=24" xmltv_id="Carlo TV - Disney HD">Carlo TV - Disney HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PHD&amp;operadora=24" xmltv_id="Carlo TV - Disney Jr.">Carlo TV - Disney Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=24" xmltv_id="Carlo TV - Disney XD">Carlo TV - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=24" xmltv_id="Carlo TV - E! Entertainment ">Carlo TV - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=24" xmltv_id="Carlo TV - ESPN">Carlo TV - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=24" xmltv_id="Carlo TV - ESPN Brasil">Carlo TV - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPI&amp;operadora=24" xmltv_id="Carlo TV - Esporte Interativo">Carlo TV - Esporte Interativo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLS&amp;operadora=24" xmltv_id="Carlo TV - For Man">Carlo TV - For Man</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=24" xmltv_id="Carlo TV - Fox">Carlo TV - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=24" xmltv_id="Carlo TV - Fox Life">Carlo TV - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=24" xmltv_id="Carlo TV - Fox Sports">Carlo TV - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=24" xmltv_id="Carlo TV - FX">Carlo TV - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FAS&amp;operadora=24" xmltv_id="Carlo TV - Glitz">Carlo TV - Glitz</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLN&amp;operadora=24" xmltv_id="Carlo TV - Globo News">Carlo TV - Globo News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GHD&amp;operadora=24" xmltv_id="Carlo TV - Globosat HD ">Carlo TV - Globosat HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GNT&amp;operadora=24" xmltv_id="Carlo TV - GNT">Carlo TV - GNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=24" xmltv_id="Carlo TV - HBO">Carlo TV - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=24" xmltv_id="Carlo TV - HBO Family">Carlo TV - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=24" xmltv_id="Carlo TV - HBO Plus">Carlo TV - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=24" xmltv_id="Carlo TV - HBO Plus e">Carlo TV - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=24" xmltv_id="Carlo TV - HBO Signature">Carlo TV - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HB2&amp;operadora=24" xmltv_id="Carlo TV - HBO 2">Carlo TV - HBO 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=24" xmltv_id="Carlo TV - Investigação Discovery ">Carlo TV - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SAT&amp;operadora=24" xmltv_id="Carlo TV - i-SAT">Carlo TV - i-SAT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=24" xmltv_id="Carlo TV - Max">Carlo TV - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=24" xmltv_id="Carlo TV - Max HD">Carlo TV - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=24" xmltv_id="Carlo TV - Max Prime">Carlo TV - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=24" xmltv_id="Carlo TV - Max Prime e">Carlo TV - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPX&amp;operadora=24" xmltv_id="Carlo TV - Megapix">Carlo TV - Megapix</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MTV&amp;operadora=24" xmltv_id="Carlo TV - MTV ">Carlo TV - MTV </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSW&amp;operadora=24" xmltv_id="Carlo TV - Multishow">Carlo TV - Multishow</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MUB&amp;operadora=24" xmltv_id="Carlo TV - Music Box Brasil">Carlo TV - Music Box Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NGH&amp;operadora=24" xmltv_id="Carlo TV - Nat Geo Wild HD ">Carlo TV - Nat Geo Wild HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=24" xmltv_id="Carlo TV - National Geographic">Carlo TV - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NBR&amp;operadora=24" xmltv_id="Carlo TV - NBR">Carlo TV - NBR</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NHK&amp;operadora=24" xmltv_id="Carlo TV - NHK">Carlo TV - NHK</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NJR&amp;operadora=24" xmltv_id="Carlo TV - Nick Jr.">Carlo TV - Nick Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=24" xmltv_id="Carlo TV - Nickelodeon">Carlo TV - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=24" xmltv_id="Carlo TV - Nickelodeon HD">Carlo TV - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=OFF&amp;operadora=24" xmltv_id="Carlo TV - Off">Carlo TV - Off</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLA&amp;operadora=24" xmltv_id="Carlo TV - Playboy TV">Carlo TV - Playboy TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHP&amp;operadora=24" xmltv_id="Carlo TV - Polishop TV">Carlo TV - Polishop TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=135&amp;operadora=24" xmltv_id="Carlo TV - Premiere Combate">Carlo TV - Premiere Combate</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=121&amp;operadora=24" xmltv_id="Carlo TV - Premiere Futebol Clube">Carlo TV - Premiere Futebol Clube</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ7&amp;operadora=24" xmltv_id="Carlo TV - Prime Box Brasil">Carlo TV - Prime Box Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RAI&amp;operadora=24" xmltv_id="Carlo TV - RAI (italiano)">Carlo TV - RAI (italiano)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=REC&amp;operadora=24" xmltv_id="Carlo TV - Record">Carlo TV - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=24" xmltv_id="Carlo TV - Record News ">Carlo TV - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCC&amp;operadora=24" xmltv_id="Carlo TV - SBT">Carlo TV - SBT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HOT&amp;operadora=24" xmltv_id="Carlo TV - Sexy Hot">Carlo TV - Sexy Hot</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SIC&amp;operadora=24" xmltv_id="Carlo TV - SIC Internacional">Carlo TV - SIC Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SET&amp;operadora=24" xmltv_id="Carlo TV - Sony Entertainment Television">Carlo TV - Sony Entertainment Television</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=24" xmltv_id="Carlo TV - Sony Spin">Carlo TV - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPA&amp;operadora=24" xmltv_id="Carlo TV - Space">Carlo TV - Space</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPH&amp;operadora=24" xmltv_id="Carlo TV - Space HD">Carlo TV - Space HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=24" xmltv_id="Carlo TV - SporTV">Carlo TV - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=24" xmltv_id="Carlo TV - SporTV 2">Carlo TV - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=24" xmltv_id="Carlo TV - SporTV 3">Carlo TV - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCI&amp;operadora=24" xmltv_id="Carlo TV - SyFy">Carlo TV - SyFy</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TBS&amp;operadora=24" xmltv_id="Carlo TV - TBS muitodivertido">Carlo TV - TBS muitodivertido</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=24" xmltv_id="Carlo TV - TCM">Carlo TV - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC2&amp;operadora=24" xmltv_id="Carlo TV - Telecine Action">Carlo TV - Telecine Action</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T2H&amp;operadora=24" xmltv_id="Carlo TV - Telecine Action HD">Carlo TV - Telecine Action HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=24" xmltv_id="Carlo TV - Telecine Cult">Carlo TV - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=24" xmltv_id="Carlo TV - Telecine Fun">Carlo TV - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCH&amp;operadora=24" xmltv_id="Carlo TV - Telecine HD">Carlo TV - Telecine HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=24" xmltv_id="Carlo TV - Telecine Pipoca">Carlo TV - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T4H&amp;operadora=24" xmltv_id="Carlo TV - Telecine Pipoca HD ">Carlo TV - Telecine Pipoca HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC1&amp;operadora=24" xmltv_id="Carlo TV - Telecine Premium">Carlo TV - Telecine Premium</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=24" xmltv_id="Carlo TV - Telecine Touch">Carlo TV - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVV&amp;operadora=24" xmltv_id="Carlo TV - Terra Viva">Carlo TV - Terra Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=24" xmltv_id="Carlo TV - The History Channel">Carlo TV - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=24" xmltv_id="Carlo TV - TLC">Carlo TV - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TLH&amp;operadora=24" xmltv_id="Carlo TV - TLC HD">Carlo TV - TLC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNT&amp;operadora=24" xmltv_id="Carlo TV - TNT">Carlo TV - TNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNH&amp;operadora=24" xmltv_id="Carlo TV - TNT HD ">Carlo TV - TNT HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TOC&amp;operadora=24" xmltv_id="Carlo TV - Tooncast">Carlo TV - Tooncast</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRU&amp;operadora=24" xmltv_id="Carlo TV - TruTV">Carlo TV - TruTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=24" xmltv_id="Carlo TV - TV Brasil">Carlo TV - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=24" xmltv_id="Carlo TV - TV Câmara">Carlo TV - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRS&amp;operadora=24" xmltv_id="Carlo TV - TV Cultura">Carlo TV - TV Cultura</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESC&amp;operadora=24" xmltv_id="Carlo TV - TV Escola">Carlo TV - TV Escola</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=24" xmltv_id="Carlo TV - TV Justiça">Carlo TV - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTB&amp;operadora=24" xmltv_id="Carlo TV - TV Rá Tim Bum">Carlo TV - TV Rá Tim Bum</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=24" xmltv_id="Carlo TV - TV Senado">Carlo TV - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TV5&amp;operadora=24" xmltv_id="Carlo TV - TV5MONDE">Carlo TV - TV5MONDE</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=USA&amp;operadora=24" xmltv_id="Carlo TV - Universal ">Carlo TV - Universal </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=24" xmltv_id="Carlo TV - VH1 Mega Hits">Carlo TV - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VIV&amp;operadora=24" xmltv_id="Carlo TV - Viva">Carlo TV - Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBT&amp;operadora=24" xmltv_id="Carlo TV - Warner">Carlo TV - Warner</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WOO&amp;operadora=24" xmltv_id="Carlo TV - WooHoo">Carlo TV - WooHoo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=25" xmltv_id="Oi TV - A&amp;E">Oi TV - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=25" xmltv_id="Oi TV - Animal Planet">Oi TV - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ5&amp;operadora=25" xmltv_id="Oi TV - Arte 1">Oi TV - Arte 1</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BAB&amp;operadora=25" xmltv_id="Oi TV - Baby TV">Oi TV - Baby TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=25" xmltv_id="Oi TV - Band News">Oi TV - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=25" xmltv_id="Oi TV - Band Sports">Oi TV - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BAN&amp;operadora=25" xmltv_id="Oi TV - Bandeirantes">Oi TV - Bandeirantes</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=25" xmltv_id="Oi TV - Boomerang">Oi TV - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNV&amp;operadora=25" xmltv_id="Oi TV - Canção Nova Canal 51 UHF">Oi TV - Canção Nova Canal 51 UHF</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=25" xmltv_id="Oi TV - Cartoon Network">Oi TV - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNE&amp;operadora=25" xmltv_id="Oi TV - CNN Español">Oi TV - CNN Español</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=25" xmltv_id="Oi TV - CNN International">Oi TV - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CCE&amp;operadora=25" xmltv_id="Oi TV - Comedy Central">Oi TV - Comedy Central</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=100&amp;operadora=25" xmltv_id="Oi TV - Concert Channel">Oi TV - Concert Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ4&amp;operadora=25" xmltv_id="Oi TV - Curta!">Oi TV - Curta!</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=25" xmltv_id="Oi TV - Discovery ">Oi TV - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=25" xmltv_id="Oi TV - Discovery Home &amp; Health">Oi TV - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=25" xmltv_id="Oi TV - Discovery Kids">Oi TV - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=25" xmltv_id="Oi TV - Disney Channel">Oi TV - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PHD&amp;operadora=25" xmltv_id="Oi TV - Disney Jr.">Oi TV - Disney Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=25" xmltv_id="Oi TV - Disney XD">Oi TV - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=25" xmltv_id="Oi TV - E! Entertainment ">Oi TV - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=25" xmltv_id="Oi TV - ESPN">Oi TV - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=25" xmltv_id="Oi TV - ESPN Brasil">Oi TV - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPI&amp;operadora=25" xmltv_id="Oi TV - Esporte Interativo">Oi TV - Esporte Interativo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=25" xmltv_id="Oi TV - Fox">Oi TV - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=25" xmltv_id="Oi TV - Fox Life">Oi TV - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=25" xmltv_id="Oi TV - Fox Sports">Oi TV - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=25" xmltv_id="Oi TV - FX">Oi TV - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FAS&amp;operadora=25" xmltv_id="Oi TV - Glitz">Oi TV - Glitz</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=25" xmltv_id="Oi TV - HBO">Oi TV - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=25" xmltv_id="Oi TV - HBO Family">Oi TV - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=25" xmltv_id="Oi TV - HBO Plus">Oi TV - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=25" xmltv_id="Oi TV - HBO Plus e">Oi TV - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=25" xmltv_id="Oi TV - HBO Signature">Oi TV - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HB2&amp;operadora=25" xmltv_id="Oi TV - HBO 2">Oi TV - HBO 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=25" xmltv_id="Oi TV - Investigação Discovery ">Oi TV - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=25" xmltv_id="Oi TV - Max">Oi TV - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=25" xmltv_id="Oi TV - Max HD">Oi TV - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=25" xmltv_id="Oi TV - Max Prime">Oi TV - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=25" xmltv_id="Oi TV - Max Prime e">Oi TV - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPX&amp;operadora=25" xmltv_id="Oi TV - Megapix">Oi TV - Megapix</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=25" xmltv_id="Oi TV - National Geographic">Oi TV - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NBR&amp;operadora=25" xmltv_id="Oi TV - NBR">Oi TV - NBR</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NJR&amp;operadora=25" xmltv_id="Oi TV - Nick Jr.">Oi TV - Nick Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=25" xmltv_id="Oi TV - Nickelodeon">Oi TV - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=25" xmltv_id="Oi TV - Nickelodeon HD">Oi TV - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PLV&amp;operadora=25" xmltv_id="Oi TV - Play TV">Oi TV - Play TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RSC&amp;operadora=25" xmltv_id="Oi TV - Record">Oi TV - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=25" xmltv_id="Oi TV - Record News ">Oi TV - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTV&amp;operadora=25" xmltv_id="Oi TV - Rede TV ">Oi TV - Rede TV </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SCC&amp;operadora=25" xmltv_id="Oi TV - SBT">Oi TV - SBT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SIC&amp;operadora=25" xmltv_id="Oi TV - SIC Internacional">Oi TV - SIC Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SET&amp;operadora=25" xmltv_id="Oi TV - Sony Entertainment Television">Oi TV - Sony Entertainment Television</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=25" xmltv_id="Oi TV - Sony Spin">Oi TV - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPA&amp;operadora=25" xmltv_id="Oi TV - Space">Oi TV - Space</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=25" xmltv_id="Oi TV - SporTV">Oi TV - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=25" xmltv_id="Oi TV - SporTV 2">Oi TV - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=25" xmltv_id="Oi TV - SporTV 3">Oi TV - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HAL&amp;operadora=25" xmltv_id="Oi TV - Studio Universal">Oi TV - Studio Universal</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=25" xmltv_id="Oi TV - TCM">Oi TV - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC2&amp;operadora=25" xmltv_id="Oi TV - Telecine Action">Oi TV - Telecine Action</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=25" xmltv_id="Oi TV - Telecine Cult">Oi TV - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=25" xmltv_id="Oi TV - Telecine Fun">Oi TV - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=25" xmltv_id="Oi TV - Telecine Pipoca">Oi TV - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC1&amp;operadora=25" xmltv_id="Oi TV - Telecine Premium">Oi TV - Telecine Premium</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=25" xmltv_id="Oi TV - Telecine Touch">Oi TV - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=25" xmltv_id="Oi TV - The History Channel">Oi TV - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=25" xmltv_id="Oi TV - TLC">Oi TV - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNT&amp;operadora=25" xmltv_id="Oi TV - TNT">Oi TV - TNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TOC&amp;operadora=25" xmltv_id="Oi TV - Tooncast">Oi TV - Tooncast</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRU&amp;operadora=25" xmltv_id="Oi TV - TruTV">Oi TV - TruTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=25" xmltv_id="Oi TV - TV Brasil">Oi TV - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=25" xmltv_id="Oi TV - TV Câmara">Oi TV - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRS&amp;operadora=25" xmltv_id="Oi TV - TV Cultura">Oi TV - TV Cultura</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESC&amp;operadora=25" xmltv_id="Oi TV - TV Escola">Oi TV - TV Escola</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=25" xmltv_id="Oi TV - TV Justiça">Oi TV - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RTB&amp;operadora=25" xmltv_id="Oi TV - TV Rá Tim Bum">Oi TV - TV Rá Tim Bum</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=25" xmltv_id="Oi TV - TV Senado">Oi TV - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TVE&amp;operadora=25" xmltv_id="Oi TV - TVE Internacional">Oi TV - TVE Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TV5&amp;operadora=25" xmltv_id="Oi TV - TV5MONDE">Oi TV - TV5MONDE</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=25" xmltv_id="Oi TV - VH1 Mega Hits">Oi TV - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBT&amp;operadora=25" xmltv_id="Oi TV - Warner">Oi TV - Warner</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WOO&amp;operadora=25" xmltv_id="Oi TV - WooHoo">Oi TV - WooHoo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MDO&amp;operadora=26" xmltv_id="GVT TV - A&amp;E">GVT TV - A&amp;E</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=APL&amp;operadora=26" xmltv_id="GVT TV - Animal Planet">GVT TV - Animal Planet</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ5&amp;operadora=26" xmltv_id="GVT TV - Arte 1">GVT TV - Arte 1</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=AXH&amp;operadora=26" xmltv_id="GVT TV - AXN HD">GVT TV - AXN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NEW&amp;operadora=26" xmltv_id="GVT TV - Band News">GVT TV - Band News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BSP&amp;operadora=26" xmltv_id="GVT TV - Band Sports">GVT TV - Band Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BAN&amp;operadora=26" xmltv_id="GVT TV - Bandeirantes">GVT TV - Bandeirantes</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BBC&amp;operadora=26" xmltv_id="GVT TV - BBC World">GVT TV - BBC World</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BEM&amp;operadora=26" xmltv_id="GVT TV - Bem Simples">GVT TV - Bem Simples</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSH&amp;operadora=26" xmltv_id="GVT TV - BIS">GVT TV - BIS</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BIT&amp;operadora=26" xmltv_id="GVT TV - Bloomberg">GVT TV - Bloomberg</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BMG&amp;operadora=26" xmltv_id="GVT TV - Boomerang">GVT TV - Boomerang</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CBR&amp;operadora=26" xmltv_id="GVT TV - Canal Brasil">GVT TV - Canal Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EST&amp;operadora=26" xmltv_id="GVT TV - Canal das Estrelas">GVT TV - Canal das Estrelas</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FUT&amp;operadora=26" xmltv_id="GVT TV - Canal Futura ">GVT TV - Canal Futura </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAR&amp;operadora=26" xmltv_id="GVT TV - Cartoon Network">GVT TV - Cartoon Network</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNB&amp;operadora=26" xmltv_id="GVT TV - Cine Brasil">GVT TV - Cine Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MNX&amp;operadora=26" xmltv_id="GVT TV - Cinemax">GVT TV - Cinemax</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CNN&amp;operadora=26" xmltv_id="GVT TV - CNN International">GVT TV - CNN International</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ4&amp;operadora=26" xmltv_id="GVT TV - Curta!">GVT TV - Curta!</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DWL&amp;operadora=26" xmltv_id="GVT TV - Deutsche Welle">GVT TV - Deutsche Welle</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIS&amp;operadora=26" xmltv_id="GVT TV - Discovery ">GVT TV - Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DHD&amp;operadora=26" xmltv_id="GVT TV - Discovery HD Theater ">GVT TV - Discovery HD Theater </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HEA&amp;operadora=26" xmltv_id="GVT TV - Discovery Home &amp; Health">GVT TV - Discovery Home &amp; Health</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DIK&amp;operadora=26" xmltv_id="GVT TV - Discovery Kids">GVT TV - Discovery Kids</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DSC&amp;operadora=26" xmltv_id="GVT TV - Discovery Science">GVT TV - Discovery Science</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DTU&amp;operadora=26" xmltv_id="GVT TV - Discovery Turbo">GVT TV - Discovery Turbo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DNY&amp;operadora=26" xmltv_id="GVT TV - Disney Channel">GVT TV - Disney Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=PHD&amp;operadora=26" xmltv_id="GVT TV - Disney Jr.">GVT TV - Disney Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=DXD&amp;operadora=26" xmltv_id="GVT TV - Disney XD">GVT TV - Disney XD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=EET&amp;operadora=26" xmltv_id="GVT TV - E! Entertainment ">GVT TV - E! Entertainment </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESP&amp;operadora=26" xmltv_id="GVT TV - ESPN">GVT TV - ESPN</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESB&amp;operadora=26" xmltv_id="GVT TV - ESPN Brasil">GVT TV - ESPN Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESH&amp;operadora=26" xmltv_id="GVT TV - ESPN HD">GVT TV - ESPN HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPI&amp;operadora=26" xmltv_id="GVT TV - Esporte Interativo">GVT TV - Esporte Interativo</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ6&amp;operadora=26" xmltv_id="GVT TV - FishTV">GVT TV - FishTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FOX&amp;operadora=26" xmltv_id="GVT TV - Fox">GVT TV - Fox</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FLI&amp;operadora=26" xmltv_id="GVT TV - Fox Life">GVT TV - Fox Life</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FSP&amp;operadora=26" xmltv_id="GVT TV - Fox Sports">GVT TV - Fox Sports</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CFX&amp;operadora=26" xmltv_id="GVT TV - FX">GVT TV - FX</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=FAS&amp;operadora=26" xmltv_id="GVT TV - Glitz">GVT TV - Glitz</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GLN&amp;operadora=26" xmltv_id="GVT TV - Globo News">GVT TV - Globo News</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GHD&amp;operadora=26" xmltv_id="GVT TV - Globosat HD ">GVT TV - Globosat HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GNT&amp;operadora=26" xmltv_id="GVT TV - GNT">GVT TV - GNT</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HBO&amp;operadora=26" xmltv_id="GVT TV - HBO">GVT TV - HBO</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFA&amp;operadora=26" xmltv_id="GVT TV - HBO Family">GVT TV - HBO Family</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPL&amp;operadora=26" xmltv_id="GVT TV - HBO Plus">GVT TV - HBO Plus</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HPE&amp;operadora=26" xmltv_id="GVT TV - HBO Plus e">GVT TV - HBO Plus e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HFE&amp;operadora=26" xmltv_id="GVT TV - HBO Signature">GVT TV - HBO Signature</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HB2&amp;operadora=26" xmltv_id="GVT TV - HBO 2">GVT TV - HBO 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=LIV&amp;operadora=26" xmltv_id="GVT TV - Investigação Discovery ">GVT TV - Investigação Discovery </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=KBS&amp;operadora=26" xmltv_id="GVT TV - KBS World">GVT TV - KBS World</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MXE&amp;operadora=26" xmltv_id="GVT TV - Max">GVT TV - Max</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MHD&amp;operadora=26" xmltv_id="GVT TV - Max HD">GVT TV - Max HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MAP&amp;operadora=26" xmltv_id="GVT TV - Max Prime">GVT TV - Max Prime</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPE&amp;operadora=26" xmltv_id="GVT TV - Max Prime e">GVT TV - Max Prime e</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MPH&amp;operadora=26" xmltv_id="GVT TV - Megapix HD">GVT TV - Megapix HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGM&amp;operadora=26" xmltv_id="GVT TV - MGM">GVT TV - MGM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MGH&amp;operadora=26" xmltv_id="GVT TV - MGM HD">GVT TV - MGM HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=MSW&amp;operadora=26" xmltv_id="GVT TV - Multishow">GVT TV - Multishow</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NGH&amp;operadora=26" xmltv_id="GVT TV - Nat Geo Wild HD ">GVT TV - Nat Geo Wild HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SUP&amp;operadora=26" xmltv_id="GVT TV - National Geographic">GVT TV - National Geographic</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NBR&amp;operadora=26" xmltv_id="GVT TV - NBR">GVT TV - NBR</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NHK&amp;operadora=26" xmltv_id="GVT TV - NHK">GVT TV - NHK</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NJR&amp;operadora=26" xmltv_id="GVT TV - Nick Jr.">GVT TV - Nick Jr.</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIC&amp;operadora=26" xmltv_id="GVT TV - Nickelodeon">GVT TV - Nickelodeon</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NIH&amp;operadora=26" xmltv_id="GVT TV - Nickelodeon HD">GVT TV - Nickelodeon HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=OFF&amp;operadora=26" xmltv_id="GVT TV - Off">GVT TV - Off</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SHP&amp;operadora=26" xmltv_id="GVT TV - Polishop TV">GVT TV - Polishop TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=135&amp;operadora=26" xmltv_id="GVT TV - Premiere Combate">GVT TV - Premiere Combate</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=BQ7&amp;operadora=26" xmltv_id="GVT TV - Prime Box Brasil">GVT TV - Prime Box Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RAI&amp;operadora=26" xmltv_id="GVT TV - RAI (italiano)">GVT TV - RAI (italiano)</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GSH&amp;operadora=26" xmltv_id="GVT TV - RBS TV">GVT TV - RBS TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=GUA&amp;operadora=26" xmltv_id="GVT TV - Record">GVT TV - Record</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=RCN&amp;operadora=26" xmltv_id="GVT TV - Record News ">GVT TV - Record News </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SBS&amp;operadora=26" xmltv_id="GVT TV - SBT ">GVT TV - SBT </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=NAC&amp;operadora=26" xmltv_id="GVT TV - Sesc TV">GVT TV - Sesc TV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HOT&amp;operadora=26" xmltv_id="GVT TV - Sexy Hot">GVT TV - Sexy Hot</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SIC&amp;operadora=26" xmltv_id="GVT TV - SIC Internacional">GVT TV - SIC Internacional</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEH&amp;operadora=26" xmltv_id="GVT TV - Sony HD">GVT TV - Sony HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ANX&amp;operadora=26" xmltv_id="GVT TV - Sony Spin">GVT TV - Sony Spin</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPH&amp;operadora=26" xmltv_id="GVT TV - Space HD">GVT TV - Space HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SPO&amp;operadora=26" xmltv_id="GVT TV - SporTV">GVT TV - SporTV</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP2&amp;operadora=26" xmltv_id="GVT TV - SporTV 2">GVT TV - SporTV 2</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SP3&amp;operadora=26" xmltv_id="GVT TV - SporTV 3">GVT TV - SporTV 3</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HAL&amp;operadora=26" xmltv_id="GVT TV - Studio Universal">GVT TV - Studio Universal</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TBS&amp;operadora=26" xmltv_id="GVT TV - TBS muitodivertido">GVT TV - TBS muitodivertido</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCM&amp;operadora=26" xmltv_id="GVT TV - TCM">GVT TV - TCM</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T2H&amp;operadora=26" xmltv_id="GVT TV - Telecine Action HD">GVT TV - Telecine Action HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC5&amp;operadora=26" xmltv_id="GVT TV - Telecine Cult">GVT TV - Telecine Cult</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC6&amp;operadora=26" xmltv_id="GVT TV - Telecine Fun">GVT TV - Telecine Fun</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TCH&amp;operadora=26" xmltv_id="GVT TV - Telecine HD">GVT TV - Telecine HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC4&amp;operadora=26" xmltv_id="GVT TV - Telecine Pipoca">GVT TV - Telecine Pipoca</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=T4H&amp;operadora=26" xmltv_id="GVT TV - Telecine Pipoca HD ">GVT TV - Telecine Pipoca HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TC3&amp;operadora=26" xmltv_id="GVT TV - Telecine Touch">GVT TV - Telecine Touch</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=HIS&amp;operadora=26" xmltv_id="GVT TV - The History Channel">GVT TV - The History Channel</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRV&amp;operadora=26" xmltv_id="GVT TV - TLC">GVT TV - TLC</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TLH&amp;operadora=26" xmltv_id="GVT TV - TLC HD">GVT TV - TLC HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TNH&amp;operadora=26" xmltv_id="GVT TV - TNT HD ">GVT TV - TNT HD </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TOC&amp;operadora=26" xmltv_id="GVT TV - Tooncast">GVT TV - Tooncast</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TRH&amp;operadora=26" xmltv_id="GVT TV - truTV HD">GVT TV - truTV HD</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TED&amp;operadora=26" xmltv_id="GVT TV - TV Brasil">GVT TV - TV Brasil</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=CAM&amp;operadora=26" xmltv_id="GVT TV - TV Câmara">GVT TV - TV Câmara</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=ESC&amp;operadora=26" xmltv_id="GVT TV - TV Escola">GVT TV - TV Escola</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=JUS&amp;operadora=26" xmltv_id="GVT TV - TV Justiça">GVT TV - TV Justiça</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=SEN&amp;operadora=26" xmltv_id="GVT TV - TV Senado">GVT TV - TV Senado</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=TV5&amp;operadora=26" xmltv_id="GVT TV - TV5MONDE">GVT TV - TV5MONDE</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=USA&amp;operadora=26" xmltv_id="GVT TV - Universal ">GVT TV - Universal </channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VHS&amp;operadora=26" xmltv_id="GVT TV - VH1 Mega Hits">GVT TV - VH1 Mega Hits</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=VIV&amp;operadora=26" xmltv_id="GVT TV - Viva">GVT TV - Viva</channel>
+    <channel update="i" site="hagah.com.br" site_id="canal=WBH&amp;operadora=26" xmltv_id="GVT TV - Warner HD">GVT TV - Warner HD</channel>
+  </channels>
+</site>
